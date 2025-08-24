@@ -1,1 +1,1 @@
-# Panoptic-Segmentation-using-Panoptic_DeepLab_and-Panoptic_FPN-in-Detectron2
+# Panoptic-Segmentation-using-Panoptic_DeepLab-vs-Panoptic_FPN-in-Detectron2
